@@ -1,0 +1,9 @@
+{
+  "label": "Staff Management",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Staff Management",
+    "description": "Guides on how to use Hyra to manage your staff"
+  }
+}

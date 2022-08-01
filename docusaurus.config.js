@@ -45,7 +45,19 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'guides',
+        path: 'guides',
+        routeBasePath: 'guides',
+        sidebarPath: require.resolve('./guidesSidebars.js'),
+        showLastUpdateTime: true,
+        // ... other options
+      },
+    ],
+  ],
   themeConfig:
     ({
       colorMode: { disableSwitch: true, defaultMode: 'light' },
@@ -58,6 +70,12 @@ const config = {
           target: "_self"
         },
         items: [
+          {
+            to: '/guides',
+            label: 'Guides',
+            position: 'left',
+            activeBaseRegex: `/guides`,
+          },
           {
             type: 'doc',
             docId: 'intro',
