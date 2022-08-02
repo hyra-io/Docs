@@ -71,17 +71,17 @@ const config = {
         },
         items: [
           {
-            to: '/guides',
-            label: 'Guides',
-            position: 'left',
-            activeBaseRegex: `/guides`,
-          },
-          {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Documentation',
           },
+          {
+            to: '/guides',
+            label: 'Guides',
+            position: 'left',
+            activeBaseRegex: `/guides`,
+          }
         ],
       },
       footer: {
