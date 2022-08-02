@@ -59,7 +59,7 @@ const config = {
     ],
   ],
   themeConfig:
-    ({
+    {
       colorMode: { disableSwitch: true, defaultMode: 'light' },
       navbar: {
         title: 'Hyra',
@@ -92,7 +92,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+      algolia: {
+        appId: '7C25FEMOKP',
+        apiKey: 'ca8182189a542e0ad0eac20ac44a6ad0',
+        indexName: 'hyra'
+      },
+    }
 };
 
 module.exports = config;
