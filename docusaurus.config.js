@@ -94,7 +94,7 @@ const config = {
       },
       algolia: {
         appId: '7C25FEMOKP',
-        apiKey: 'ca8182189a542e0ad0eac20ac44a6ad0',
+        apiKey: 'f26461a2f14dbd0e925f215b1b3c4c0e',
         indexName: 'hyra'
       },
     }
