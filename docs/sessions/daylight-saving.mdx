@@ -1,0 +1,51 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# Daylight Saving
+
+When you create a session in Hyra, we use the **current timezone offset**. This means if you created a session for 5pm EST during July, daylight saving would be applied to all of the sessions going forward.
+
+When November comes along and daylight saving ends, your session will **not** automatically go backwards, so you will need to reconfigure your session time to match the new offset.
+
+:::note
+
+This applies for **all timezones**.
+
+:::
+
+## When do my sessions need to be updated for daylight saving?
+
+:::info
+
+Hyra will **not** automatically update your offsets - you will need to do this yourself
+
+:::
+
+### America/New York (Eastern Time)
+
+<Tabs>
+  <TabItem value="Daylight Saving for 2022" label="Daylight Saving for 2022" default>
+    <b>Daylight Saving Starts:</b> Sunday, 13 March at 02:00am<br/>
+    <b>Daylight Saving Ends:</b> Sunday, 6 November at 02:00am
+  </TabItem>
+  <TabItem value="Daylight Saving for 2023" label="Daylight Saving for 2023">
+    <b>Daylight Saving Starts:</b> Sunday, 12 March at 02:00am<br/>
+    <b>Daylight Saving Ends:</b> Sunday, 5 November at 02:00am
+  </TabItem>
+</Tabs>
+
+### Europe/London (Greenwich Mean Time)
+
+<Tabs>
+  <TabItem value="Daylight Saving for 2022" label="Daylight Saving for 2022" default>
+    <b>Daylight Saving Starts:</b> Sunday, 27 March at 01:00am<br/>
+    <b>Daylight Saving Ends:</b> Sunday, 30 October at 02:00am
+  </TabItem>
+  <TabItem value="Daylight Saving for 2023" label="Daylight Saving for 2023">
+    <b>Daylight Saving Starts:</b> Sunday, 26 March at 01:00am<br/>
+    <b>Daylight Saving Ends:</b> Sunday, 29 October at 02:00am
+  </TabItem>
+</Tabs>
+
+## Technical Information
+Technically speaking, Hyra stores the time of your session as a UTC timestamp, and UTC follows no daylight saving. This means that when common timezones such as EST and GMT/BST swap between their respective daylight saving/no daylight saving times, the sessions do not change as well.
