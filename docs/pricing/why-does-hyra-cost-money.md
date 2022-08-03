@@ -1,5 +1,5 @@
 --- 
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Why does Hyra cost money?
@@ -18,12 +18,6 @@ By making Hyra a paid product, we have ensured sustainability for the long-term 
 
 Free businesses tend to fold or sell within the first year. To aovid, this problem you should know that no software is truly free. You might call this the anti-free-software movement. 
 
-:::tip
-
-Did you know that 5 out of the 7 major Roblox HR managers have been bought-out or shutdown in the past 2 years. Only 2 of the 5 still are generally available.
-
-:::
-
 ## Other businesses like Hyra are free...
 
 When you operate your business for free, you need to monetise it. They typically do this with ads. It is possible to make money using this strategy however you need a few things:
@@ -34,3 +28,19 @@ When you operate your business for free, you need to monetise it. They typically
 When you make money off advertising, your users become worth cents to your business per month (if that). This greatly restricts the quality of product you can create, as the budget per user is limited. This makes large database queries and indexing incredibly expensive and slow.
 
 At the end of the day, if the product is free, the quality suffers.
+
+## Why doesn't free software work out?
+
+Free software is no stranger in the Roblox community. In the last 5 years, several major providers have been available.
+
+Free software doesn't have the best track record of long-term availability. Here is a timeline of some services:
+
+**❌ Terabyte Services (2017 - 2019):** Shutdown<br/>
+**❌ myCenter:** Sold<br/>
+**❌ Hyra V1 (2020 - 2021):** Shutdown<br/>
+**❌ ReAdmin:** Shutdown<br/>
+**✅ BloxTech:** Still available<br/>
+
+As you can see, only one of the major providers launched in the last 5 years is still available today. 
+
+Each time a service shuts down or gets sold, you have to migrate your entire business to a new provider, which is a massive strain on your staff.
