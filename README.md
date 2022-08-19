@@ -1,41 +1,20 @@
-# Website
+![Hyra](https://raw.githubusercontent.com/hyra-io/README/main/logo_png.png#gh-light-mode-only)
+![Hyra](https://raw.githubusercontent.com/hyra-io/README/main/logo_png_white.png#gh-dark-mode-only)
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# Docs
+Welcome to Hyra's Public Documentation! This documentation is responsible for both our support articles and guides as well as our technical documentation for Developers. 
 
-### Installation
+Our documentation is powered by Docusaurus, which is a React based documentation system built by Meta. Our documentation is fully open-source and can be edited and updated by anyone. 
 
+The search on our documentation is powered by Algolia. We reindex our search on every "main" branch update. This is a manual process that only maintainers can carry out. 
+
+## Spotted a typo? 
+Please fork our repo and make a pull request with the fix. We will merge in all valid pull requests. We appreciate your contribution! :smiley: 
+
+## Local Development
+To run the documentation locally, please run
 ```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+npm run start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The documentation will be served on your localhost accessible at port 3000.
