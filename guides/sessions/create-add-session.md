@@ -22,7 +22,7 @@ If you are the Host or Co-Host of the session, simply click the spot and click: 
 
 Please note that you need permission: "Sessions - Assign Host to Self" (for Hosts), or "Sessions - Assign Co-Host to Self" (for Co-Hosts) for you to voluntary take the session.
 
-::: info
+:::info
 For users that have the permission:
 1. "Sessions - Assign Host to other People" (for Host)
 2. "Sessions - Assign Co-host to Other People" (for Co-Host)
