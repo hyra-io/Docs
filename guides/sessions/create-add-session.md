@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# How to claim a session?
+# How to claim a session
 For Middle Ranks to High Ranks that want to book a session, this is the article that you need! In this article, we'll be talking about on how to create a session and how to join.
 
 ## Creating a Server
