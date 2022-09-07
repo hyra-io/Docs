@@ -1,6 +1,6 @@
 {
   "label": "Webhook Proxy",
-  "position": 100,
+  "position": 50,
   "link": {
     "type": "doc",
     "id": "webhook-proxy/about-the-proxy"
