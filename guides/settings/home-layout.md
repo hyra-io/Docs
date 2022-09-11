@@ -6,6 +6,6 @@ The game ID can be found in the link once you are on its join page.
 
 ![layout](/img/layout.PNG)
 ![link](/img/link.PNG)
-![verify](/img/verify.PNG)
+![verify](/img/verify.png)
 
 Afterwards all of your workspace members can easily navigate between games while checking their activity.
