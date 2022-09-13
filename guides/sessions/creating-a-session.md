@@ -1,10 +1,9 @@
 ---
 sidebar_position: 1
 ---
-# Sessions
+# Creating a Session
 **Sessions** are one-time or repeating events that occur in your group. For example, you could create a session for all of your training sessions, shifts, etc. 
 
-## Creating a Session
 To create a session, head over to Settings > Sessions, and click "**+ Add Session**"
 ![](https://cdn.discordapp.com/attachments/1015246364692717609/1018540017808850954/unknown.png)
 
