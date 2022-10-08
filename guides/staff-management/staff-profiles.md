@@ -9,10 +9,10 @@ Once you have created a view, hover over the expand button that is to the right 
 
 ![staff views](/img/open-view.png)
 
-## Details Tab
-On this page, you will have extended access to the details about your employees. You can add labels to your employees to differentiate between teams, such as SHRs, HRs, and MRs. To create a new label, go to your workspace settings and go to "Labels". You can quickly redirect yourself to their Roblox profile by clicking the button to the right of their bolded user.
+## Directory Profile
+On this page, you will have extended access to the details about your employees. From Discord Username and Tag, Department, Labels, and many more. You can quickly redirect yourself to their Roblox profile by clicking the button to the right of their bolded user. To learn more on how to edit a field in Directory Profile, click [here.](https://docs.hyra.io/guides/staff-management/directory-profile)
 
-![staff profile](/img/staff-profile.jpg)
+![staff profile](https://cdn.discordapp.com/attachments/1015246364692717609/1028283765518245929/unknown.png)
 
 ## Activity Tab
 On the next tab, **"Activity"**, you can view a user's minutes and in-game messages. The graph at the top compares the data of their activity so you can check their consistency or lack thereof. All of the minutes and messages can be viewed as the current week, the past week, the past month, or the past year. Below that will show the activity during the current rotation of requirements. As well, workspace admins can manually add and remove minutes to an employee.
