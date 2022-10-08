@@ -21,8 +21,11 @@ In the Details Tab, you can now supply the fields about the staff. Here's a tabl
 | -- | -- |
 | **Employee ID** |  This is the Employee ID of the user. This is usually their Roblox User ID. |
 | **Email*** | This is the Email of the user. |
+| **First Name*** | This is the user's first name. |
+| **Known As** | This is the user's nickname. |
+| **Last Name*** | This is the user's last name. |
 | **Manager** | Who is the supervisor/manager of the user? |
-| **Phone*** | This is the Phone Number of the user.
+| **Phone*** | This is the Phone Number of the user. |
 | **Employee Type** | Sadly you can't change it for now... |
 | **Discord** | This is their Discord username and tag. Please note that you need to supply their Discord User ID in the field. For more information, you can go [here.](https://docs.hyra.io/guides/staff-management/getting-discord-ids)|
 | **Department** | If a user is in a Department (For example: Human Resources, Public Relations, etc.), you can type it here. |
