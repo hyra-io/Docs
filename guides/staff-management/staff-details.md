@@ -1,11 +1,3 @@
----
-id: 289013
-sidebar_position: 1
-title: Directory Profile
-tags:
-  - Hyra
-  - Support
----
 # Directory Profile
 **Directory Profile** gives you extended access to the details about your employees. With updated Staff Details, there's more fields that you can fill up!
 
