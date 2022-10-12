@@ -30,3 +30,15 @@ To find the value of a group rank, go to **"Configure Group"** on your Roblox gr
 **Sort** will arrange all users in a certain way, but will not exclude anyone. For example, you can sort it so the users show up alphabetically (A to Z, or Z to A). You can do this by clicking **"Name"**.
 
 ![sort](/img/sort.jpg)
+
+## Filtering by Continent
+If you wish to filter your staff by continent, it is helpful to know the content codes. 
+
+| Continent | Code | 
+| ----------- | ----------- |
+| North America | NA | 
+| Europe | EU | 
+| South America | SA |
+| Asia | AS |
+| Africa | AF |
+| Oceania | OC |
