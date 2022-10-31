@@ -17,8 +17,6 @@ const config = {
   scripts: [
     {src: 'https://science.hyra.io/pls.js', defer: true, 'data-domain': 'support.hyra.io'},
   ],
-  // redirect to guides if on root
-
   organizationName: 'hyra-io', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
