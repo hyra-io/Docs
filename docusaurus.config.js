@@ -65,7 +65,7 @@ const config = {
         title: 'Hyra',
         logo: {
           alt: 'Hyra Logo',
-          src: 'img/hyra.svg',
+          src: 'img/logo.svg',
           href: "https://hyra.io",
           target: "_self"
         },
