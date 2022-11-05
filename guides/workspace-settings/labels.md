@@ -7,7 +7,7 @@ To proceed, please note that you need the following permissions: **Workspace Adm
 
 ## Creating Labels
 To create a label, go to Settings > Labels and click "Add Label."
-![labels](wert01930/test-domain/static/img/updated-labels.png)
+![](wert01930/test-domain/static/img/updated-labels.png)
 
 Once created, you can change it's color and name. 
 ![](https://cdn.discordapp.com/attachments/1015246364692717609/1036968286593749063/unknown.png)
@@ -22,4 +22,5 @@ To proceed, please note that you need the following permissions: **View Other St
 
 ## Adding Labels
 To add a label, go to the Staff Profile and in Labels, click "Add Label"
+
 ![](https://cdn.discordapp.com/attachments/1015246364692717609/1036969042277306398/unknown.png)
