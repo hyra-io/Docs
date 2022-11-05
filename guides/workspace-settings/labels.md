@@ -7,7 +7,7 @@ To proceed, please note that you need the following permissions: **Workspace Adm
 
 ## Creating Labels
 To create a label, go to Settings > Labels and click "Add Label."
-![](https://drive.hyra.io/s/6BgefBRmAMKj7GN)
+![](https://drive.hyra.io/apps/files_sharing/publicpreview/6BgefBRmAMKj7GN?x=1879&y=616&a=true&file=labels-hyra2.png&scalingup=0)
 
 Once created, you can change it's color and name. 
 ![](https://cdn.discordapp.com/attachments/1015246364692717609/1036968286593749063/unknown.png)
