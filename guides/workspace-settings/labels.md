@@ -1,10 +1,6 @@
 # Labels
 Labels are great for your team's administration to organize certain people. You can use them to label staff from their timezone, perks, or status.
 
-:::caution PERMISSION REQUIRED
-To proceed, please note that you need the following permissions: **Workspace Admin**
-:::
-
 ## Creating Labels
 To create a label, go to Settings > Labels and click "Add Label."
 ![](https://drive.hyra.io/apps/files_sharing/publicpreview/6BgefBRmAMKj7GN?x=1879&y=616&a=true&file=labels-1.png&scalingup=0)
