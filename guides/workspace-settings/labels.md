@@ -23,4 +23,4 @@ To proceed, please note that you need the following permissions: **View Other St
 ## Adding Labels
 To add a label, go to the Staff Profile and in Labels, click "Add Label"
 
-![](https://cdn.discordapp.com/attachments/1015246364692717609/1036969042277306398/unknown.png)
+![](https://drive.hyra.io/apps/files_sharing/publicpreview/2i5YwY6L4Hq7736?x=1879&y=616&a=true&file=labels-4.png&scalingup=0)
