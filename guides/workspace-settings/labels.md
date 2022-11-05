@@ -2,7 +2,7 @@
 Labels are great for your team's administration to organize certain people. You can use them to label staff from their timezone, perks, or status.
 
 ## Creating Labels
-To create a label, go to Settings > Labels and click "Add Label."
+To create a label, go to Settings > Labels and click "Add Label." You can also create a label in the Staff Profile by clicking "Addd".
 ![](https://drive.hyra.io/apps/files_sharing/publicpreview/6BgefBRmAMKj7GN?x=1879&y=616&a=true&file=labels-1.png&scalingup=0)
 
 Once created, you can change it's color and name. 
