@@ -7,14 +7,14 @@ To proceed, please note that you need the following permissions: **Workspace Adm
 
 ## Creating Labels
 To create a label, go to Settings > Labels and click "Add Label."
-![](https://drive.hyra.io/apps/files_sharing/publicpreview/6BgefBRmAMKj7GN?x=1879&y=616&a=true&file=labels-hyra2.png&scalingup=0)
+![](https://drive.hyra.io/apps/files_sharing/publicpreview/6BgefBRmAMKj7GN?x=1879&y=616&a=true&file=labels-1.png&scalingup=0)
 
 Once created, you can change it's color and name. 
-![](https://cdn.discordapp.com/attachments/1015246364692717609/1036968286593749063/unknown.png)
+![](https://drive.hyra.io/apps/files_sharing/publicpreview/7RFyp3DKrDD8cYJ?x=1879&y=616&a=true&file=labels-2.png&scalingup=0)
 
 ## Deleting Labels
 To delete a label, go to Settings > Labels and hover to the label that you want to delete and hit **X** to delete.
-![](https://cdn.discordapp.com/attachments/1015246364692717609/1036968448888156241/unknown.png)
+![](https://drive.hyra.io/apps/files_sharing/publicpreview/7WfHzZ8J4PqKgjE?x=1879&y=616&a=true&file=labels-3.png&scalingup=0)
 
 :::caution PERMISSION REQUIRED
 To proceed, please note that you need the following permissions: **View Other Staff**
