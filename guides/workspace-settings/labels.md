@@ -1,25 +1,16 @@
 # Labels
-Labels are great for your team's administration to organize certain people. You can use them to label staff from their timezone, perks, or status.
+Labels are great for your team's administration to organise certain people. Labels can be used for anything and can really help keep your staff team segmented into manual sets.
 
-:::caution PERMISSION REQUIRED
-To proceed, please note that you need the following permissions: **Workspace Admin**
-:::
+## Creating labels
+To create a label, go to Settings > Labels and click "Add label"
+![](/img/create-label.png)
 
-## Creating Labels
-To create a label, go to Settings > Labels and click "Add Label."
-![](https://cdn.discordapp.com/attachments/1015246364692717609/1036967516381126726/unknown.png)
+Once created, you can change its colour and name. 
+<img src="/img/label-create-ui.png" width="600px"/>
 
-Once created, you can change it's color and name. 
-![](https://cdn.discordapp.com/attachments/1015246364692717609/1036968286593749063/unknown.png)
-
-## Deleting Labels
+## Deleting labels
 To delete a label, go to Settings > Labels and hover to the label that you want to delete and hit **X** to delete.
-![](https://cdn.discordapp.com/attachments/1015246364692717609/1036968448888156241/unknown.png)
 
-:::caution PERMISSION REQUIRED
-To proceed, please note that you need the following permissions: **View Other Staff**
-:::
-
-## Adding Labels
+## Add label to staff
 To add a label, go to the Staff Profile and in Labels, click "Add Label"
-![](https://cdn.discordapp.com/attachments/1015246364692717609/1036969042277306398/unknown.png)
+![](/img/add-label.png)
