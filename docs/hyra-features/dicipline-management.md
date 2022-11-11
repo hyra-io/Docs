@@ -10,7 +10,7 @@ Logbook is here to help you log all of the previous actions taken and any notes 
 ![logbook](/img/hyra-logbook.gif)
 
 ## Staff Views
-Staff views are how workspace admins can view information about their employees all at once. Hyra's design is made to help you efficiently manage your group. In this feature, you can create customized views depending on what details are most important.
+Staff views are how workspace admins can view information about their employees all at once. Hyra's design is made to help you efficiently manage your group. In this feature, you can create customised views depending on what details are most important.
 
 You can also sort people based on their warnings recieved!
 ![staff view](img/hyra-staffview.gif)
