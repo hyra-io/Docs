@@ -6,8 +6,8 @@ Activity Tracking are essential on many workspaces to make sure that their staff
 
 ## Activity
 In the Activity Tab, your staff will be able to see their own activity. Hyra also features a activity history that shows how active you are in the past year! Other than that, you can also see a leaderboard to show the most active staff to beat!
-![](/img/hyra-activity.png)
+![Activity Tab](/img/hyra-activity.png)
 
 ## Assignments
 Assignments can help you deploy tasks that your staff are needed to do. For now, it is only limited to sessions or minutes, but in the future, we may expand it to more requirements.
-![](/img/hyra-assignments.png)
+![Assignments](/img/hyra-assignments.png)
