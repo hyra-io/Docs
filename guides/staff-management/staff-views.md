@@ -1,5 +1,6 @@
 # Staff Views
 Staff views are how workspace admins can view information about their employees all at once. Hyra's design is made to help you efficiently manage your group. In this feature, you can create customized views depending on what details are most important.
+
 ## How to get Started
 To start off, click the staff icon on the left side of your screen. You will see the dashboard which lists the amount of staff, the average activity for that week, and the top performing employees. Underneath the dashboard button, click **"Create a view"**.
 
