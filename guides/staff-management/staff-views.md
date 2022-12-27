@@ -14,15 +14,16 @@ Once you have created your first view, you will see every user that is a part of
 
 ![view](/img/view.png)
 
-## How can I Customize the Views?
+## How can I customize the Views?
 **Filter** and **sort** are the two ways to customize your view. 
 
 **Filter:** Filter out unnecessary users. For example, if you want this view to only contain a certain role, use the **"Group Rank"** filter. The dropdown allows you to do multiple customizations.
 
-- **"is..."** will contain one role
-- **"is not..."** will contain everyone but one role
-- **"is greater than..."** will contain all roles above a certain role. Although the value you choose will not be included.
-And so forth.
+| Filter Type | Description |
+| -- | -- |
+| **"is..."** | will contain one role |
+| **"is not..."** | will contain everyone but one role |
+| **"is greater than..."** | will contain all roles above a certain role. Although the value you choose will not be included. |
 
 To find the value of a group rank, go to **"Configure Group"** on your Roblox group and click **"Roles"**. Each role will have a rank number, this will be the value.
 
@@ -31,6 +32,10 @@ To find the value of a group rank, go to **"Configure Group"** on your Roblox gr
 **Sort** will arrange all users in a certain way, but will not exclude anyone. For example, you can sort it so the users show up alphabetically (A to Z, or Z to A). You can do this by clicking **"Name"**.
 
 ![sort](/img/sort.jpg)
+
+**Edit Columns** will filter the most important columns that your view need. Let's say you don't need the "First Seen" column. To do this, click the Edit Columns button and turn off First Seen. After that, click save.
+
+![editing-columns-gif](/img/editing-columns.gif)
 
 ## Filtering by Continent
 If you wish to filter your staff by continent, it is helpful to know the content codes. 
