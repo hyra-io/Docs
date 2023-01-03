@@ -48,3 +48,14 @@ If you wish to filter your staff by continent, it is helpful to know the content
 | Asia | AS |
 | Africa | AF |
 | Oceania | OC |
+
+## Time off Icons
+To also help you identify which staff are currently out without checking the Time off Page or their Directory Profile, you can see it right beside their username here!
+
+Here's a table to help you identify the different Time off Icons.
+
+| Icon | Description |
+| -- | -- |
+| ![green-icon](/img/loa-green.png) | **Green Icon** shows that the user is currently out. |
+| ![yellow-icon](/img/loa-yellow.png) | **Yellow Icon** shows that the user is currently in time off this week. |
+| ![grey-icon](/img/loa-black.png) | **Grey Icon** shows that the user is in time off last week. This is helpful if let's say you have a one-week cooldown for LOA or Time off Requests. |
