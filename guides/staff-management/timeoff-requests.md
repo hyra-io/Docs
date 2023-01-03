@@ -26,6 +26,6 @@ To also help you identify which staff are currently out without checking the Tim
 
 | Icon | Description |
 | -- | -- |
-| ![green-icon](/img/) | **Green Icon** shows that the user is currently out. |
-| ![yellow-icon](/img/) | **Yellow Icon** shows that the user is currently in time off this week. |
-| ![black-icon](/img/) | **Black Icon** shows that the user is in time off last week. This is helpful if let's say you have a one-week cooldown for LOA or Time off Requests. |
+| ![green-icon](/img/loa-green.png) | **Green Icon** shows that the user is currently out. |
+| ![yellow-icon](/img/loa-yellow.png) | **Yellow Icon** shows that the user is currently in time off this week. |
+| ![grey-icon](/img/loa-black.png) | **Grey Icon** shows that the user is in time off last week. This is helpful if let's say you have a one-week cooldown for LOA or Time off Requests. |
