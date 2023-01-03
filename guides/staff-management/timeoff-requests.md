@@ -22,7 +22,7 @@ Let's say a staff asks if they could take a LOA in emergency, you can create a T
 ![timeoff-onbehalf](/img/timeoff-onbehalf.gif)
 
 ## Time off Icons
-To also help you identify which staff are currently out without checking the Time off Page or their Directory Profile, you can see them in Views.
+To also help you identify which staff are currently out without checking the Time off Page or their Directory Profile, you can see it right beside their username in Views.
 
 | Icon | Description |
 | -- | -- |
