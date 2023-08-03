@@ -8,15 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Hyra Support',
   tagline: 'Get help with Hyra',
-  url: 'https://support.hyra.io',
+  url: 'https://docs.hyra.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
-  scripts: [
-    {src: 'https://science.hyra.io/pls.js', defer: true, 'data-domain': 'support.hyra.io'},
-  ],
   organizationName: 'hyra-io', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
